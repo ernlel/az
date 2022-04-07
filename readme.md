@@ -51,5 +51,5 @@ a.Route("/user",
 )
 ```
 
-![az](src1.png "az")
-![az](src2.png "az")
+![az](scr1.png "az")
+![az](scr2.png "az")
