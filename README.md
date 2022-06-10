@@ -1,10 +1,10 @@
-# AZ very fast http router with middleware and self documentation
+# AZ http router with middleware and self documentation
 
 It is a lightweight high performance HTTP request router for Go.
 
-In contrast to other routers it don`t have pattern matching and all parameters is passed by url query parameters. It is like function call with arguments throw HTTP.
+In contrast to other routers it don`t have pattern matching and all parameters is passed by url query parameters. It is like function call with arguments via HTTP.
 
-It has extendable middleware system and it is self documenting with GUI  view and test routes
+It has extendable middleware system and it is self documenting with GUI
 
 ## Example:
 - Req: GET /ping
